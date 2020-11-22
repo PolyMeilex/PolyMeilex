@@ -1,4 +1,5 @@
-<img src="https://github-readme-stats.vercel.app/api?username=PolyMeilex&show_icons=true" alt="Poly's github stats" title="Poly's github stats" width="100%"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=PolyMeilex&show_icons=true" alt="Poly's github stats" title="Poly's github stats" width="49%" height="185px"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polymeilex&layout=compact" alt="Poly's github stats" title="Poly's github stats" width="50%" height="185px"></img>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Rust-orange?style=flat-square&logo=rust" alt="Rust"></img>
